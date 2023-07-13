@@ -1,4 +1,4 @@
-import fs from 'fs';
+const fs = require('fs');
 
 const packageJsonStr = fs.readFileSync('./package.json').toString();
 try {
