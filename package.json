@@ -1,0 +1,11 @@
+{
+  "name": "ddpz",
+  "version": "1.0.0",
+  "description": "组件库",
+  "main": "index.js",
+  "scripts": {
+    "push": "bash push.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
