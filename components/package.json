@@ -1,6 +1,6 @@
 {
 	"name": "@ddpz/components",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "个人组件库",
 	"main": "lib/components.umd.min.js",
 	"private": false,
