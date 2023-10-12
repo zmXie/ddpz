@@ -1,6 +1,5 @@
 # 忽略目录
 examples/
-packages/
 public/
 dist/
 
@@ -12,4 +11,7 @@ babel.config.js
 node_modules
 /dist
 package.json
+update_version.js
+deploy.sh
+
 
